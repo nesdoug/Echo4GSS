@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Dad\VS Projects\Echo4GSS\bin\Release\Echo4GSS.exe.config
+C:\Users\User\Desktop\Dad\VS Projects\Echo4GSS\bin\Release\Echo4GSS.exe
+C:\Users\User\Desktop\Dad\VS Projects\Echo4GSS\bin\Release\Echo4GSS.pdb
+C:\Users\User\Desktop\Dad\VS Projects\Echo4GSS\obj\Release\Echo4GSS.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Dad\VS Projects\Echo4GSS\obj\Release\Echo4GSS.Form1.resources
+C:\Users\User\Desktop\Dad\VS Projects\Echo4GSS\obj\Release\Echo4GSS.Properties.Resources.resources
+C:\Users\User\Desktop\Dad\VS Projects\Echo4GSS\obj\Release\Echo4GSS.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Dad\VS Projects\Echo4GSS\obj\Release\Echo4GSS.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Dad\VS Projects\Echo4GSS\obj\Release\Echo4GSS.exe
+C:\Users\User\Desktop\Dad\VS Projects\Echo4GSS\obj\Release\Echo4GSS.pdb
